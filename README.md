@@ -39,9 +39,10 @@ export default {
 $ npm run production
 ```
 
-### 7) Commitar localmente o arquivo **_src/consts.js_**
+### 7) Adicionar e Commitar localmente o arquivo **_src/consts.js_**
 
 ```bash
+$ git add .
 $ git commit -am 'Ajustando URLs do backend'
 ```
 
